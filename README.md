@@ -4,12 +4,13 @@ This habit of reading papers will help you to remain updated with this field. Th
 
 ## Topics covered
 
-1.  Q learning
+1.  Q Learning
 2.  Policy Gradient 
-3.  Continous actions (DDPG)
+3.  Continous Actions (DDPG)
 4.  Distributional RL
+5.  Model Based
 
-## Can anyone contribute
+## Can anyone contribute ?
 
 Absolutely yes, please feel free to open new pull request if you have such kind of annotated research papers in Reinforcement Learning. 
 
